@@ -1,4 +1,4 @@
-a,b,c=100,200,300
+a,b,c=100,200,300  #9_36python基础内容
 d=a;e=b;f=c
 c=d;a=e;b=f;
 print(a,b,c)
